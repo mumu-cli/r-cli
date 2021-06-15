@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "bin": "./bin/main",
+  "bin": "./bin/index",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
