@@ -4,11 +4,11 @@
 ## 使用
 ### 1.安装
 ```sh
-yarn global add resonance-cli
+yarn global add rsan-cli
 // or
-npm install resonance-cli -g
+npm install rsan-cli -g
 ```
 ### 2.使用
 ```sh
-resonance-cli create <你的项目名字>
+rsan-cli create <你的项目名字>
 ```
