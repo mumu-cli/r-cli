@@ -1,6 +1,6 @@
 {
-  "name": "fl-cli",
-  "version": "1.0.0",
+  "name": "rsan-cli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": "./bin/main",
@@ -15,8 +15,7 @@
     "ora": "^5.0.0"
   },
   "devDependencies": {},
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "MIT"
